@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "portermetrics": {
+      "type": "http",
+      "url": "https://mcp.portermetrics.com/mcp"
+    }
+  }
+}
